@@ -1,0 +1,6 @@
+pandas
+numpy
+datetime
+pandas_ta
+cfscrape
+python-binance
